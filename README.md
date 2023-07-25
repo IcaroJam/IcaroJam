@@ -15,6 +15,7 @@ My interests go from webdev to gamedev to operating system development to physic
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat-square" alt="C Badge">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat-square" alt="C++ Badge">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" alt="Python Badge">
+  <img src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat-square" alt="Markdown Badge">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square" alt="HTML5 Badge">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square" alt="CSS3 Badge">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" alt="JavaScript Badge">
