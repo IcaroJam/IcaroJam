@@ -8,7 +8,7 @@ My interests go from webdev to gamedev to operating system development to physic
 
 
 <h2 align="center">
-  Languages
+  Languages && Frameworks
 </h2>
 <div align="center">
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat-square" alt="GNU Bash Badge">
