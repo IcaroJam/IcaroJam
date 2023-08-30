@@ -31,7 +31,7 @@ My interests go from webdev to gamedev to operating system development to physic
 </div>
 
 <h2 align="center">
-  Software
+  Software && Other Tools
 </h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=flat-square" alt="Vim Badge">
@@ -41,6 +41,7 @@ My interests go from webdev to gamedev to operating system development to physic
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square" alt="Docker Badge">
   <img src="https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=fff&style=flat-square" alt="GIMP Badge">
   <img src="https://img.shields.io/badge/Inkscape-000?logo=inkscape&logoColor=fff&style=flat-square" alt="Inkscape Badge">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat-square" alt="Figma Badge">
   <img src="https://img.shields.io/badge/Unity-FFF?logo=unity&logoColor=000&style=flat-square" alt="Unity Badge">
   <img src="https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=fff&style=flat-square" alt="KiCad Badge">
   <img src="https://img.shields.io/badge/Autodesk-000?logo=autodesk&logoColor=fff&style=flat-square" alt="Autodesk Badge">
