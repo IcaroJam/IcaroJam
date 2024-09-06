@@ -31,6 +31,7 @@ My interests go from webdev to gamedev to operating system development to physic
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square" alt="Tailwind CSS Badge">
   <img src="https://img.shields.io/badge/Headless%20UI-66E3FF?logo=headlessui&logoColor=000&style=flat-square" alt="Headless UI Badge">
   <img src="https://img.shields.io/badge/Radix%20UI-161618?logo=radixui&logoColor=fff&style=flat-square" alt="Radix UI Badge">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat-square" alt="Node.js Badge">
   <img src="https://img.shields.io/badge/tRPC-2596BE?logo=trpc&logoColor=fff&style=flat-square" alt="tRPC Badge">
   <img src="https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=fff&style=flat-square" alt="Zod Badge">
   <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=flat-square" alt="Prisma Badge">
